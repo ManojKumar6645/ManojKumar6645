@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Reat.js And Node.js**
 
-- 💬 Ask me about **.Net ,Asp.Net**
+- 💬 Ask me about **.Net Core,Asp.Net Core **
 
 - 📫 How to reach me **manojkumar65927@gmail.com**
 
